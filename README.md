@@ -1,10 +1,10 @@
-This page is a running list of Open Source Operating Systems (Linux & *BSD distributions, etc.) and what their current status is regarding age verification.
+This page is a running list of Open Source Operating Systems (Linux & *BSD distributions, etc.) and what their current status is regarding age verification, now with first-party links wherever possible.
 
 There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of age verification and reporting.
 
-Passed OS-Level Age Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
+Passed OS-Level Age Verification Laws: [Brazil](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm), & [California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043).
 
-Proposed OS-Level Age Verification Laws: [Colorado](https://x.com/lundukejournal/status/2026331487499370988), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), [New York](https://x.com/lundukejournal/status/2029081398577922173), & [Michigan](https://x.com/LundukeJournal/status/2036825163627466964)
+Proposed OS-Level Age Verification Laws: [Colorado](https://leg.colorado.gov/bills/SB26-051), [Illinois](https://legiscan.com/IL/bill/SB3977/2025), [New York](https://www.nysenate.gov/legislation/bills/2025/S8102/amendment/A), & Michigan ([1](https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-4429.pdf), [2](https://www.legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0284)).
 
 ### Operating Systems Not Implementing Age Verification
 
@@ -12,20 +12,19 @@ The developers or publishers of these open source Operating Systems have decided
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
-| :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
-| :no_entry: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
-| :no_entry: | **Zorin OS** | [Developer statement](https://x.com/LundukeJournal/status/2038282756715589738) |
-| :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
-| :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
-| :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
-| :no_entry: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
-| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
-| :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
-| :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
-| :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
-| :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
-| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
+| :no_entry: | **Devuan Linux** | [Developer statement](https://xcancel.com/jaromil/status/2034694340249821329) |
+| :no_entry: | **Slackware Linux** | [Developer statement](https://www.linuxquestions.org/questions/showthread.php?p=6626190) |
+| :no_entry: | **Zorin OS** | [Developer statement](https://forum.zorin.com/t/statement-about-age-verification-laws/61052) |
+| :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://xcancel.com/GrapheneOS/status/2034957604682621229) |
+| :no_entry: | **FreeDOS** | [Developer statement](https://xcancel.com/lundukejournal/status/2034770975309361583) |
+| :no_entry: | **Artix Linux** | [Developer statement](https://forum.artixlinux.org/index.php/topic,9304.msg55607.html#msg55607) |
+| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://github.com/c3d/db48x/blob/stable/LEGAL-NOTICE.md) |
+| :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://xcancel.com/ayubio/status/2033897573526696016) |
+| :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://agelesslinux.org/) |
+| :no_entry: | **Garuda Linux** | [Developer statement](https://forum.garudalinux.org/t/a-statement-on-age-verification-the-state-of-the-community-discourse/47652) |
+| :no_entry: | **Void Linux** | [Developer statement](https://old.reddit.com/r/voidlinux/comments/1ryhgpl/systemd_adds_age_attestation_effecting_almost/obeigup/) |
+| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/) |
+| :no_entry: | **Omarchy Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2029226614068801768) |
 
 ### Operating Systems Planning to Implement Age Verification
 
@@ -33,10 +32,10 @@ The developers or publishers of these Open Source Operating Systems have made pl
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
+| :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://discourse.ubuntu.com/t/ubuntus-response-to-californias-digital-age-assurance-act-ab-1043/77948) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
-| :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
+| :building_construction: | **Fedora** | [Planning Discussion](https://discussion.fedoraproject.org/t/a-practical-architectural-solution-to-os-level-age-verification-laws/183387/26) |
 
 ### Uncertain Age Verification Future
 
@@ -44,8 +43,8 @@ The developers or publishers of these open source Operating Systems have made st
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :question: | **CachyOS** | [Developer statement](https://x.com/LundukeJournal/status/2037217859739542005) |
-| :question: | **MX Linux** | [Developer statement](https://x.com/LundukeJournal/status/2038279978907758664) |
+| :question: | **CachyOS** | [Developer statement](https://discuss.cachyos.org/t/age-verification-systemd/26316) |
+| :question: | **MX Linux** | [Developer statement](https://mxlinux.org/blog/mx-news-week-ending-march-28-2026/) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
@@ -53,4 +52,4 @@ The following Operating Systems have officially added default Age Verification (
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :identification_card: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://x.com/midnightbsd/status/2030992394703732872), [but Age Attestation added by default](https://x.com/LundukeJournal/status/2039377663026926005) |
+| :identification_card: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://xcancel.com/midnightbsd/status/2030992394703732872), [but Age Attestation added by default](https://github.com/MidnightBSD/src/releases/tag/4.0.4) |
