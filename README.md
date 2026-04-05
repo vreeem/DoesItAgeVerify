@@ -25,6 +25,8 @@ The developers or publishers of these open source Operating Systems have decided
 | :no_entry: | **Void Linux** | [Developer statement](https://old.reddit.com/r/voidlinux/comments/1ryhgpl/systemd_adds_age_attestation_effecting_almost/obeigup/) |
 | :no_entry: | **EndeavorOS Linux** | [Developer statement](https://endeavouros.com/news/whats-new-in-endeavouros-titan-release/) |
 | :no_entry: | **Omarchy Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2029226614068801768) |
+| :no_entry: | **GhostBSD** | [Developer statement](https://forums.ghostbsd.org/d/793-freebsd-and-age-verification/37) |
+| :no_entry: | **Parrot OS** | [Developer statement](https://parrotsec.org/blog/2026-04-02-our-statement-about-age-verification/) |
 
 ### Operating Systems Planning to Implement Age Verification
 
